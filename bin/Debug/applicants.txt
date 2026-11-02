@@ -1,0 +1,4 @@
+{txtFirstName.Text},{txtMiddleName.Text},{txtLastName.Text},{cmbGender.Text},{dtpBirth.Value.ToShortDateString()},{txtMobile.Text},{txtEmail.Text},{txtState.Text},{txtCity.Text}
+{txtFirstName.Text},{txtMiddleName.Text},{txtLastName.Text},{cmbGender.Text},{dtpBirth.Value.ToShortDateString()},{txtMobile.Text},{txtEmail.Text},{txtState.Text},{txtCity.Text}
+{txtFirstName.Text},{txtMiddleName.Text},{txtLastName.Text},{cmbGender.Text},{dtpBirth.Value.ToShortDateString()},{txtMobile.Text},{txtEmail.Text},{txtState.Text},{txtCity.Text}
+{txtFirstName.Text},{txtMiddleName.Text},{txtLastName.Text},{cmbGender.Text},{dtpBirth.Value.ToShortDateString()},{txtMobile.Text},{txtEmail.Text},{txtState.Text},{txtCity.Text}
